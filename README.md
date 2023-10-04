@@ -41,12 +41,12 @@ Start the server
 ```
 
 
-## Deployment
+## Building
 
-To deploy this project run
+To build this project run
 
 ```bash
-  npm run deploy
+  npm run buiild
 ```
 
 
