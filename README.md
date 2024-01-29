@@ -5,14 +5,9 @@ In this project, I successfully completed a comprehensive Nike landing page tuto
 
 **Project Link:** [nike-landing-page](https://nike-landing-page-ten-xi.vercel.app/)
 
-
-
-
 ## Acknowledgements
 
  - [JsMastery.pro](https://www.jsmastery.pro/)
-
-
 
 ## Run Locally
 
@@ -40,7 +35,6 @@ Start the server
   npm run dev
 ```
 
-
 ## Building
 
 To build this project run
@@ -48,7 +42,6 @@ To build this project run
 ```bash
   npm run buiild
 ```
-
 
 ## Screenshots
 
