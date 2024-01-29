@@ -3,7 +3,7 @@
 
 In this project, I successfully completed a comprehensive Nike landing page tutorial sourced from YouTube. The tutorial guided me through the intricate process of designing and developing a visually appealing and responsive landing page for Nike, a renowned global brand. Throughout the tutorial, I honed my skills in web development, incorporating modern design principles and best practices. This hands-on experience not only enhanced my understanding of front-end development but also provided insights into creating engaging user interfaces. The tutorial not only expanded my technical expertise but also fueled my passion for creating seamless web experiences.
 
-**Project Link:** [nike-landing-page](https://nike-land-page.web.app/)
+**Project Link:** [nike-landing-page](https://nike-landing-page-ten-xi.vercel.app/)
 
 
 
