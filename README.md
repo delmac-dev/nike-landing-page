@@ -49,8 +49,4 @@ To build this project run
   npm run buiild
 ```
 
-## Screenshots
-
-![nike landing page](https://github.com/delmac-dev/nike-landing-page/assets/136045782/4767a507-5f5e-43bf-8ab6-41c39fac466d)
-
 
