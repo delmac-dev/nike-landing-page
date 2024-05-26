@@ -5,6 +5,9 @@ In this project, I successfully completed a comprehensive Nike landing page tuto
 
 **Project Link:** [nike-landing-page](https://nike-landing-page-ten-xi.vercel.app/)
 
+## Screenshot
+
+![nike page](https://github.com/delmac-dev/nike-landing-page/assets/136045782/15218a45-7de7-4886-a2ac-1bcc6bc0ac53)
 
 ## Acknowledgements
 
